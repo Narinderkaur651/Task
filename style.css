@@ -93,7 +93,7 @@ footer{
     background-color: black;
 }
 .rights{
-    font-size: 13px;padding-left:30%;
+    font-size: 13px;padding-left:20%;padding-right:20%;
 }
 .newsletter{ 
     background-image: linear-gradient(to right, #2795dc , #265fcd);
